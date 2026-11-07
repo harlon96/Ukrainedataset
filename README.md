@@ -1,2 +1,2 @@
 # Ukrainedataset
-#This is a project on the of the war.
+#This is a PDF of Python code I used in Jupiter notebook project.
